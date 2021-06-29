@@ -39,7 +39,7 @@
       <img src="https://pythonawesome.com/content/images/2019/11/Safety-Helmet-Wearing-Dataset.jpg">
     </center>
 
-    <p>Hard hats are one of the most effective protective tools and are used at all kinds of production sites, transportation sites, mining sites, and warehouses. We are well aware that human supervision is not possible at all these sites. Hence, a computer vision-based AI approach is used for the detection and monitoring of workers. Computer vision can be used to detect and identify whether a worker is wearing protective gear such as a safety helmet or not. In this blog, we have used YOLO (You-Only-Look-Once) v5 to detect hard hats which are being worn by the workers at a construction site, warehouse, transportation, etc.</p>
+    <p>Hard hats are one of the most effective protective tools and are used at all kinds of production sites, transportation sites, mining sites, and warehouses. We are well aware that human supervision is not possible at all these sites. Hence, a computer vision-based AI approach is used for the detection and monitoring of workers. Computer vision can be used to detect and identify whether a worker is wearing protective gear such as a safety helmet or not. In this blog, we have used YOLO v5 to detect hard hats which are being worn by the workers at a construction site, warehouse, transportation.</p>
   </li>
   
   </ol>
