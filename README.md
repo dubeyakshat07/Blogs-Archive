@@ -31,6 +31,7 @@
     <p>E-commerce giants like Amazon, Walmart, and Wayfair are consistently dealing with the risk of product duplication in the catalog. There are millions of products listed on each giant platform. Wayfair alone has over 9 million unique items in its catalog. The products listed on these websites come from different suppliers and it’s has been observed that these suppliers sell the same product with different names and different prices. Here arises the risk of product duplication. To provide the customers with an amazing experience we need to group all the duplicate products into a single entity. We will be taking different images as input. These images will be passed as an input to the EfficientNet model, a Convolutional Neural Networks (CNN). Then these models output an image embedding corresponding to a particular image. The advantage of using EfficientNet architecture is that it doesn’t require the scaling or normalization of the input image. After getting the image embeddings, these image embeddings are used to identify similar images using the Nearest Neighbours technique.</p>
   </li>
   
+  
   <li>
     <A href="https://blog.labellerr.com/index.php/2021/06/14/hard-hat-detection-training-yolo-on-custom-data-to-ensure-safety-in-construction-environments/">Hard Hat Detection: Training YOLO on custom data to ensure safety in construction environments</a>
     <br>
@@ -38,8 +39,7 @@
     <center>
       <img src="https://pythonawesome.com/content/images/2019/11/Safety-Helmet-Wearing-Dataset.jpg">
     </center>
-
     <p>Hard hats are one of the most effective protective tools and are used at all kinds of production sites, transportation sites, mining sites, and warehouses. We are well aware that human supervision is not possible at all these sites. Hence, a computer vision-based AI approach is used for the detection and monitoring of workers. Computer vision can be used to detect and identify whether a worker is wearing protective gear such as a safety helmet or not. In this blog, we have used YOLO v5 to detect hard hats which are being worn by the workers at a construction site, warehouse, transportation.</p>
   </li>
   
-  </ol>
+  
