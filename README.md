@@ -12,7 +12,7 @@
   </li>
   
   <li>
-    <A href="https://blog.labellerr.com/index.php/2021/06/21/covid-19-lung-ct-scan-segmentation-using-deep-learning-coping-up-with-the-growing-demand-of-radiologists-during-the-pandemic/">COVID-19 Lung CT Scan Segmentation using Deep Learning: Response to the growing demand of radiologists during the pandemic </a>
+    <A href="https://dubeyakshat07.medium.com/covid-19-lung-ct-scan-segmentation-using-deep-learning-response-to-the-growing-demand-of-c6ec4206dee4?source=your_stories_page-------------------------------------">COVID-19 Lung CT Scan Segmentation using Deep Learning: Response to the growing demand of radiologists during the pandemic </a>
     <br>
     <br>
     <center>
@@ -22,7 +22,7 @@
   </li>
   
   <li>
-    <A href="https://blog.labellerr.com/index.php/2021/06/28/ai-in-retail-product-matching-and-dealing-with-duplicate-products/">AI in Retail: Product matching and dealing with duplicate products</a>
+    <A href="https://dubeyakshat07.medium.com/ai-in-retail-product-matching-and-dealing-with-duplicate-products-labellerr-labelling-made-89c6ac87972e?source=your_stories_page-------------------------------------">AI in Retail: Product matching and dealing with duplicate products</a>
     <br>
     <br>
     <center>
@@ -43,3 +43,12 @@
   </li>
   
   
+  <li>
+    <A href="https://dubeyakshat07.medium.com/application-of-facial-attribute-recognition-in-different-domains-267cb3f7fc54?source=your_stories_page-------------------------------------">AI in Retail: Product matching and dealing with duplicate products</a>
+    <br>
+    <br>
+    <center>
+      <img src="https://miro.medium.com/max/1400/0*5zaBG7mXmUHRvJmC.jpg">
+    </center>
+    <p>The total valuation of the global facial recognition market in 2020 was USD 3.86 Billion. With a compound annual growth rate (CAGR) of 15.4% from 2021 to 2028, the global facial recognition market is expanding. The utilization of this technology is evolving exponentially. Biometric technologies are widely utilized to improve security. These can be found in a variety of applications, including access control, attendance tracking, security and surveillance, and more. Facial attribute recognition comes under the category of biometrics and is a type of image recognition technology. This technology has been accepted worldwide by banks, non-public places, etc for security purposes. Facial attribute recognition involves taking an image as an input and then passing it through a CNN-based architecture to perform feature extraction, allowing the neural network to perform facial attribute recognition. The images passed through the neural networks are converted into an array first. These arrays are scaled and normalize for better generalization of the model in the real world. We tried to detect the attributes of the left eye, right, nose, and lips. A Convolutional Neural Network(CNN) based model was trained and used for prediction for the attributes recognition task. The last layers of the CNN model were used for regression purposes as our task was to predict 10 coordinates of the facial attributes.</p>
+  </li>
